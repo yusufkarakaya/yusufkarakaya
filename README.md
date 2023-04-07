@@ -1,7 +1,7 @@
 <h1 align="center">Yusuf Karakaya</h1>
 <h3 align="center">Full stack developer from Los Angeles, CA.</h3>
 
-- 💬 Ask me about **react, node, html, css, git**
+- 💬 Ask me about **ReactJS, NodeJS, HTML, CSS, Python, Flask**
 
 - 📫 How to reach me **yusufkarakaya92@gmail.com**
 </p>
