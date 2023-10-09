@@ -1,1 +1,1 @@
-Hi! I'm Yusuf Karakaya, a full-stack developer from Los Angeles, CA. I'm passionate about building high-quality software that solves real-world problems. I have experience with a variety of programming languages and technologies, including Python, JavaScript, React, Node.j and databases like MongoDB, MySQL.
+
