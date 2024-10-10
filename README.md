@@ -7,7 +7,8 @@
 
 ---
 
-Experienced Web Developer with over 5 years of expertise in full-stack development, specializing in building user-friendly and responsive websites. I have extensive experience in CMS projects like WordPress and Webflow and proficiency in modern web technologies such as JavaScript, React, Next.js, and Node.js.
+I'm passionate about web development and always eager to collaborate on exciting projects. I focus primarily on frontend development with React and Next.js but also have experience with backend and databases. Feel free to reach out if you’re interested in working together!
+
 
 ## Skills
 - **Languages:** JavaScript, Node.js, HTML5, CSS3
@@ -15,7 +16,3 @@ Experienced Web Developer with over 5 years of expertise in full-stack developme
 - **Databases:** MongoDB, PostgreSQL
 - **Tools:** Git, GitHub, Visual Studio Code, npm, Vercel, Google Analytics, Google Tag Manager, Google Ads
 - **CMS:** WordPress, Webflow
-
----
-
-I'm passionate about web development and always eager to collaborate on exciting projects. I focus primarily on frontend development with React and Next.js but also have experience with backend and databases. Feel free to reach out if you’re interested in working together!
