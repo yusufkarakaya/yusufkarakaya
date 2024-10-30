@@ -1,8 +1,6 @@
 # Yusuf Karakaya
 
 **Frontend Web Developer**  
-📧 Email: [yusufkarakaya92@gmail.com](mailto:yusufkarakaya92@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ykarakaya/) — [Website](https://www.yusufkarakaya.dev/)  
 📍 Temecula, California, USA
 
 ---
