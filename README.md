@@ -1,13 +1,13 @@
 # Yusuf Karakaya
 
-**Full-Stack Developer**  
+**Frontend Web Developer**  
 📧 Email: [yusufkarakaya92@gmail.com](mailto:yusufkarakaya92@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ykarakaya/) — [GitHub](https://github.com/yusufkarakaya) — [Website](https://www.yusufkarakaya.dev/)  
 📍 Temecula, California, USA
 
 ---
 
-I'm passionate about web development and always eager to collaborate on exciting projects. I focus primarily on frontend development with React and Next.js but also have experience with backend and databases. Feel free to reach out if you’re interested in working together!
+I'm passionate about web development and always eager to collaborate on exciting projects. I focus primarily on Frontend Web development with React and Next.js but also have experience with backend and databases. Feel free to reach out if you’re interested in working together!
 
 
 ## Skills
