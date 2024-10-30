@@ -1,11 +1,11 @@
 # Yusuf Karakaya
 
-**Frontend Web Developer**  
+**Full-Stack Developer**  
 📍 Temecula, California, USA
 
 ---
 
-I'm passionate about web development and always eager to collaborate on exciting projects. I focus primarily on Frontend Web Development with React and Next.js but also have experience with backend and databases. Feel free to reach out if you’re interested in working together!
+I'm passionate about web development and always eager to collaborate on exciting projects. As a full-stack developer, I work primarily with front-end technologies like React and Next.js, and I also have solid experience with back-end and databases. Feel free to reach out if you’re interested in working together!
 
 
 ## Skills
