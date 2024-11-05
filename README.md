@@ -1,7 +1,7 @@
 # Yusuf Karakaya
 
 **Full-Stack Developer**  
-📍 Temecula, California, USA
+📍 Riverside, California
 
 ---
 
