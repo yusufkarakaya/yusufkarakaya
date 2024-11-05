@@ -5,7 +5,7 @@
 
 ---
 
-I'm passionate about web development and always eager to collaborate on exciting projects. As a full-stack developer, I work primarily with front-end technologies like React and Next.js, and I also have solid experience with back-end and databases. Feel free to reach out if you’re interested in working together!
+I've been enjoying building projects with JavaScript. I’m focused on working with React and learning TypeScript. On the backend, I use Node.js and MongoDB. I also have a lot of experience with WordPress and Webflow. Feel free to reach out if you’re interested in working together!
 
 
 ## Skills
